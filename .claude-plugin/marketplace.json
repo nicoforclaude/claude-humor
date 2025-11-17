@@ -1,0 +1,19 @@
+{
+  "name": "claude-humor",
+  "owner": {
+    "name": "Nico"
+  },
+  "description": "Humor and entertainment plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "joke-teller",
+      "source": "./plugins/joke-teller",
+      "description": "Tells programming jokes on demand"
+    },
+    {
+      "name": "roaster",
+      "source": "./plugins/roaster",
+      "description": "Playful programming roasts - try 'roast me', 'roast this commit', etc."
+    }
+  ]
+}

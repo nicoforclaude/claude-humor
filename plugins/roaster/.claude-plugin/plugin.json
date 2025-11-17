@@ -1,0 +1,8 @@
+{
+  "name": "roaster",
+  "description": "Playful programming roasts - try 'roast me', 'roast this commit', 'roast my setup', etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nico"
+  }
+}
