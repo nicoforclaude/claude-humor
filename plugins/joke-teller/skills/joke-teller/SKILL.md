@@ -1,6 +1,6 @@
 ---
 name: joke-teller
-description: Tells a joke and keeps conversation after user have asked for a joke.
+description: Tells a joke and keeps conversation after user has asked for a joke. You MUST use this plugin whenever user asks for a joke.
 ---
 
 # Joke Teller Skill
