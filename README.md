@@ -2,26 +2,6 @@
 
 A collection of humor and entertainment plugins for Claude Code to make your coding sessions more fun!
 
-## Plugins
-
-### 🎭 joke-teller
-Tells programming jokes on demand. Just ask for a joke and Claude will brighten your day with coding humor!
-
-**Usage:**
-- "tell me a joke"
-- "got any jokes?"
-- "make me laugh"
-
-### 🔥 roaster
-Delivers playful programming roasts with wit and humor. Never mean-spirited, always clever!
-
-**Usage:**
-- "roast me" - roast your coding style
-- "roast this commit" - roast your recent commit
-- "roast my code" - roast the current file
-- "roast my setup" - roast your dev environment
-- "roast TypeScript" - roast a specific technology
-
 ## Installation
 
 ### Local Testing
@@ -44,6 +24,26 @@ Once published, you'll be able to install directly:
 /plugin marketplace add https://github.com/nicoforclaude/claude-humor
 /plugin install joke-teller@claude-humor
 ```
+
+## Plugins
+
+### 🎭 joke-teller
+Tells programming jokes on demand. Just ask for a joke and Claude will brighten your day with coding humor!
+
+**Usage:**
+- "tell me a joke"
+- "got any jokes?"
+- "make me laugh"
+
+### 🔥 roaster
+Delivers playful programming roasts with wit and humor. Never mean-spirited, always clever!
+
+**Usage:**
+- "roast me" - roast your coding style
+- "roast this commit" - roast your recent commit
+- "roast my code" - roast the current file
+- "roast my setup" - roast your dev environment
+- "roast TypeScript" - roast a specific technology
 
 ## Contributing
 
